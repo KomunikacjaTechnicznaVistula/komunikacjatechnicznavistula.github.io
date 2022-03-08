@@ -14,4 +14,4 @@ Click [here](https://github.com/KomunikacjaTechnicznaVistula) to browse our gith
 
 ---
 
-To learn more about the studies, visit https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna
+To learn more about the studies, visit [www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna](https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji/studia-podyplomowe/informatyka/komunikacja-techniczna)
